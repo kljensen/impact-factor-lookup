@@ -20,7 +20,7 @@ Just do `go build` in the directory.
 ```
 
 Papers are output in descending order of impact factor. The latest impact
-factor available for each journal is used.
+factor available for each journal is used. The output is in BibTeX format.
 
 ## License
 
